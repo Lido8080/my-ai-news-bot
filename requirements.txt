@@ -1,5 +1,0 @@
-flask
-feedparser
-requests
-schedule
-deep-translator
